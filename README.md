@@ -1,3 +1,3 @@
-@ deno
+@ demo
 
 First file.
