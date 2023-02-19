@@ -1,0 +1,66 @@
+[ {
+  "picklistValues" : [ {
+    "useIcon" : "false",
+    "optionValue" : "Repair",
+    "optionLabel" : "Repair",
+    "imageUrl" : "/resource/1642575129000/sspproductissues",
+    "iconName" : "standard:default"
+  }, {
+    "useIcon" : "false",
+    "optionValue" : "Loaner",
+    "optionLabel" : "Loaner",
+    "imageUrl" : "/resource/1642574937000/ssploanerpickup",
+    "iconName" : "standard:default"
+  }, {
+    "useIcon" : "false",
+    "optionValue" : "Preventative Maintenance",
+    "optionLabel" : "Preventative Maintenance",
+    "imageUrl" : "/resource/1642575021000/ssppreventivemaintainance",
+    "iconName" : "action:add_contact"
+  }, {
+    "useIcon" : "false",
+    "optionValue" : "Invoice",
+    "optionLabel" : "Invoice",
+    "imageUrl" : "/resource/1642574850000/sspinvoice",
+    "iconName" : "standard:default"
+  }, {
+    "useIcon" : "false",
+    "optionValue" : "Contract",
+    "optionLabel" : "Contract",
+    "imageUrl" : "/resource/1642511467000/SSPContract",
+    "iconName" : "standard:default"
+  }, {
+    "useIcon" : "false",
+    "optionValue" : "Sales Order Delivery",
+    "optionLabel" : "Sales Order Delivery",
+    "imageUrl" : "/resource/1642576311000/sspsalesorderdelivery",
+    "iconName" : "standard:default"
+  }, {
+    "useIcon" : "false",
+    "optionValue" : "Data",
+    "optionLabel" : "Data",
+    "imageUrl" : "/resource/1642574800000/sspdata",
+    "iconName" : "standard:default"
+  }, {
+    "useIcon" : "false",
+    "optionValue" : "Training",
+    "optionLabel" : "Training",
+    "imageUrl" : "/resource/1642576376000/ssptraining",
+    "iconName" : "standard:default"
+  }, {
+    "useIcon" : "false",
+    "optionValue" : "Customer Portal Issues",
+    "optionLabel" : "Customer Portal Issues",
+    "imageUrl" : "/resource/1642574744000/sspcustomerportalissues",
+    "iconName" : "standard:default"
+  }, {
+    "useIcon" : "false",
+    "optionValue" : "Other",
+    "optionLabel" : "Other",
+    "imageUrl" : "/resource/1643120097000/sspothericon",
+    "iconName" : "standard:default",
+    "description" : ""
+  } ],
+  "objectName" : "Case",
+  "fieldName" : "BasicRequestTypes__c"
+} ]

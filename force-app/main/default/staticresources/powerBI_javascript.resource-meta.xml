@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StaticResource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cacheControl>Public</cacheControl>
+    <contentType>text/javascript</contentType>
+    <description>This JS file is the part of standard API of PowerBi available on Microsoft standard Site. Created as part of ACEE-113</description>
+</StaticResource>

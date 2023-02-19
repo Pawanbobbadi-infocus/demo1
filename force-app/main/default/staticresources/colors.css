@@ -1,0 +1,36 @@
+.datatable-pink{
+  color:#000000;
+  font-weight: bold;
+  background-color:var(--lwc-colorBackgroundStencil);
+  pointer-events: none;
+}
+.datatable-pink:hover{
+  color:#fff;
+  background-color:#F5BC42;
+  pointer-events: none;
+}
+th.datatable-pink{
+font-weight: bolder;
+}
+.datatable-pink svg{
+  visibility: hidden;
+}
+.datatable-orange{
+  background-color: #ffba90;
+}
+
+.margin-right .slds-dropdown {
+  margin-right: 15px;
+}
+.slds-is-absolute {
+  position: fixed;
+};
+
+.slds-scrollable_x {
+  overflow: visible;
+}
+
+div#brandBand_2 {
+  min-width: 97vw;
+  width: fit-content;
+}

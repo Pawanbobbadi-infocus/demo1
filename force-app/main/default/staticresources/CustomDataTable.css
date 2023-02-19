@@ -1,0 +1,92 @@
+.slds-grid .slds-hyphenate {
+    width: 100%
+}
+
+.slds-grid .slds-truncate {
+    width: 100%
+}
+
+.picklist-container{
+    margin-top: -1rem;
+    margin-left: -0.5rem;
+    position: absolute !important;
+}
+
+[lightning-combobox_combobox-host]{
+margin-left: 2%;
+    margin-top: -33px;
+    width: 98%;
+}
+
+tr.slds-hint-parent{
+    height: 38px; 
+}
+
+.datatable-black{ 
+  background-color:var(--lwc-colorBackgroundStencil);
+  font-weight: bold;
+}
+.datatable-white svg{
+  visibility: hidden;
+}
+.datatable-white button{
+  pointer-events: none;
+}
+  
+.slds-dropdown_left {
+right: 0;
+left: auto;
+max-height:90px;
+overflow-y: auto;
+}
+
+[lightning-calendar_calendar]{
+    max-height: unset;
+}
+
+.slds-dropdown-trigger .slds-dropdown {
+top: 0%;
+}
+
+
+
+/*.slds-scrollable_y, .slds-scrollable--y {
+-webkit-overflow-scrolling: touch;
+min-height: 180px;
+max-height: 100%;
+overflow: hidden;
+overflow-y: auto;
+}*/
+
+.datatable-white-cell{
+  background-color:white;
+  font-weight: bold;
+}
+
+.comboboxAbsolute {
+  margin-top:60px;
+  margin-left: unset;
+  color: grey;
+  width: 135px;
+  height: 100%;
+  position: absolute !important;
+  top: 15px !important;
+  right: 50px !important;
+  z-index: 10 !important;
+}
+
+.comboboxAbsolute .slds-dropdown_left {
+  max-height: unset;
+}
+
+.slds-table_header-fixed, .slds-table--header-fixed {
+    margin-bottom: 60px;
+}
+
+.slds-scrollable_y, .slds-scrollable--y {
+    background-color: white;
+}
+
+.slds-scrollable_x, .slds-scrollable--x {
+    background-color: white;
+}

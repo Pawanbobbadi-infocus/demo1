@@ -1,0 +1,52 @@
+.siteforceServiceBody .cCenterPanel {
+    min-height: calc(100vh - 234px);
+}
+.uiTabset--default .tabs__nav{
+    margin-bottom: 20px;
+}
+.listViewTitle {
+    display: none;
+}
+div[class="slds-page-header slds-page-header_record-home forceHighlightsStencilDesktop forceRecordLayout"] div[role="group"] button:first-of-type {
+    display: none;
+}
+.forceCommunityReportChart{
+  pointer-events: none;
+}
+/* 15-1-2022 - SSP Release 1 - To Remove unwanted items from the user profile menu */
+.profile-menuItem.home{
+    display:none;
+}
+.profile-menuItem.userSettings{
+    display:none;
+}
+.profile-menuItem.myAccount{
+    display:none;
+}
+.profile-menuItem.contactSupport{
+    display:none;
+}
+/* 18-1-2022 - SSP Release 1 - To style the navigation menu */
+.forceCommunityThemeNav .mainNavItem {
+    padding-left:2rem !important;
+}
+.forceCommunityThemeNav .comm-navigation__top-level-item.mainNavItem:first-child{
+    padding-left:0rem !important;
+}
+.forceCommunityThemeNav.websterHomeHeader .mainNavItem .linkBtn{
+    font-size: medium;font-weight: bold;
+}
+.forceCommunityThemeNav.websterInnerHeader .mainNavItem .linkBtn{
+    font-size: medium;font-weight: bold;
+}
+.closeButton{
+    display:none;
+}
+.body .siteforceContentArea{
+min-height:calc(100vh - 234px);
+}
+/* 18-2-2022 - SSP Release 1 - For Changing Flow Labels */
+.slds-form-element__label {
+font-size: 13px;
+}
+:root { --dxp-c-section-columns-max-width: 1440px; }
